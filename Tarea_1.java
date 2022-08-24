@@ -1,4 +1,4 @@
-public class Main {
+public class Tarea_1 {
     public static void main(String[] args) {
         int a=5,b=10,c=5;
         System.out.println("----------PRIMERA PARTE---------------");
